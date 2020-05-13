@@ -1,4 +1,4 @@
-# Twitter_Object_Detection
+# Twitter_Object_Detection_Using_Retinanet
 ## Introduction
 - The task in here is to build an ML algorithm that will be trained on identifyinh the bounding box for the twitter following buttons.
 - The end output would return the images with the bounding box and the cordinates for the box.
